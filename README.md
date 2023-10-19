@@ -12,7 +12,7 @@ the following:
 This repo is result of my test task.
 
 ### Build instructions
-This executable script does not need to be compiled, ```bahs``` and ```shuf``` must be installed on your system, that's it!
+This executable script does not need to be compiled, ```bash``` and ```shuf``` must be installed on your system, that's it!
 
 ### Usage
 1. Clon this repo: ``` git clone git@github.com:dysondi/test_task.git ```  
